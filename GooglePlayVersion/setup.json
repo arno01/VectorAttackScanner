@@ -3,6 +3,7 @@
    "adEngine": "ADMOB",
    "currentSignature": "91e1449235ad13f94e17e2cf39e258a8fa681090",
    "enableBanners": true,
+   "advertisingInterval": 3,
    "enableFullBanners": true,
    "analyticsKeyEngine": "482T59RMKVSRFT952T2P",
    "currentUrlSetup": "https://raw.githubusercontent.com/JhetoX/VectorAttackScanner/master/GooglePlayVersion/setup.json",
