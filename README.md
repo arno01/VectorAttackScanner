@@ -13,7 +13,7 @@ For now this tool only check ELF Binary Format, searching RELRO, PAX, PIE, ASLR,
 
 Coming soon i publish this app in the Google Play with a free / pay version.
 
-Features about this project:
+Features full list about this project:
 
 - Analysis apk and so/elf
 - Extract apk and so/elf
@@ -50,6 +50,9 @@ Features about this project:
 - Detect Carding/cloning/ripping libs
 - Regex analyzer, where the implements this
 - How to Fix This Problem and unsecure practices
+
+<b>Preview: Vector Attack Scanner with Material Design:</b><br>
+[![Dissamble Part 1/2](http://img.youtube.com/vi/SANxsVrf760/0.jpg)](https://www.youtube.com/watch?v=SANxsVrf760)
 
 <b>Preview: Vector Attack Scanner for Android:</b><br>
 [![Dissamble Part 1/2](http://img.youtube.com/vi/UMxqoevDYN4/0.jpg)](https://www.youtube.com/watch?v=UMxqoevDYN4)
